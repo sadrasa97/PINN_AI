@@ -399,12 +399,11 @@ tune.run(objective, config={
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{pinn_cancer_2024,
+@article{pinn_cancer_2026,
   title={Physics-Informed Deep Learning for Cancer Dynamics: 
          Integrating Statistical Physics and Multi-Modal Clinical Data},
-  author={[Your Name]},
-  journal={[Journal Name]},
-  year={2024}
+  author={[sadra saremi]},
+  year={2026}
 }
 ```
 
@@ -452,8 +451,7 @@ config.training.physics_loss_weight = 0.1  # Reduce physics weight initially
 ## Contact
 
 For questions or issues:
-- Open a GitHub issue
-- Email: [your.email@institution.edu]
+- Email: [saremi.sadra@gmail.com]
 
 ---
 
